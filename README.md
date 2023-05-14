@@ -5,6 +5,6 @@
 Sử dụng [Nextjs]()
 ## TODO
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Đọc tài liệu nextjs - 2 ngày
+- [ ] Tạo layout - 1 ngày
+- [ ] Viết blog đầu tiên - 1 ngày

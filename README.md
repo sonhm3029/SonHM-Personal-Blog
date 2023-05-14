@@ -2,9 +2,9 @@
 
 ## Tech
 
-Sử dụng [Nextjs]()
+Sử dụng [Jekyll](https://jekyllrb.com/docs/)
 ## TODO
 
-- [x] Đọc tài liệu nextjs - 2 ngày
+- [x] Đọc tài liệu jekyll - 1 ngày
 - [ ] Tạo layout - 1 ngày
 - [ ] Viết blog đầu tiên - 1 ngày
